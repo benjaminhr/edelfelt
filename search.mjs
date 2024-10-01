@@ -1,7 +1,7 @@
 import fs from "node:fs/promises";
 import axios from "axios";
 
-const API_KEY = "d095d7fa1ee4d57aabfb4e047f69dd83";
+const API_KEY = "";
 
 async function main() {
   const filename = "dataset.json";
